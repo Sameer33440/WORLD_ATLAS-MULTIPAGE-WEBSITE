@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "countryName": "World",
+    "capital": "India",
+    "population": "8B",
+    "interestingFact": "The world has 195 countries across seven continents with diverse cultures and ecosystems. 📷"
+  },
+  {
+    "id": 2,
+    "countryName": "Nepal",
+    "capital": "Kathmandu",
+    "population": "29.6M",
+    "interestingFact": "Nepal is home to Mount Everest and the birthplace of Lord Buddha. 📷"
+  },
+  {
+    "id": 3,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": "104.3M",
+    "interestingFact": "Egypt has the Great Pyramid of Giza and the world's longest river, the Nile. 📷"
+  },
+  {
+    "id": 4,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": "25.7M",
+    "interestingFact": "Australia has unique wildlife and the Great Barrier Reef, the world's largest coral system. 📷"
+  },
+  {
+    "id": 5,
+    "countryName": "Brazil",
+    "capital": "Brasilia",
+    "population": "214M",
+    "interestingFact": "Brazil is home to the Amazon Rainforest and the world-famous Rio Carnival. 📷"
+  },
+  {
+    "id": 6,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": "67.4M",
+    "interestingFact": "France is known for the Eiffel Tower, fashion, and exquisite cuisine. 📷"
+  },
+  {
+    "id": 7,
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": "1.32B",
+    "interestingFact": "Russia is the largest country by area, spanning two continents. 📷"
+  },
+  {
+    "id": 8,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": "1.44B",
+    "interestingFact": "China has the Great Wall, one of the world's most famous landmarks. 📷"
+  },
+  {
+    "id": 9,
+    "countryName": "United States",
+    "capital": "Washington, D.C.",
+    "population": "331.9M",
+    "interestingFact": "The U.S. has the world's largest economy and diverse landscapes. 📷"
+  },
+  {
+    "id": 10,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": "125.8M",
+    "interestingFact": "Japan is known for its technology, sushi, and cherry blossoms. 📷"
+  },
+  {
+    "id": 11,
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "population": "83.2M",
+    "interestingFact": "Germany is famous for its Autobahn, Oktoberfest, and engineering excellence. 📷"
+  },
+  {
+    "id": 12,
+    "countryName": "United Kingdom",
+    "capital": "London",
+    "population": "67.9M",
+    "interestingFact": "The UK has the world’s oldest underground railway, the London Underground. 📷"
+  },
+  {
+    "id": 13,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": "38M",
+    "interestingFact": "Canada has the longest coastline and stunning natural landscapes. 📷"
+  },
+  {
+    "id": 14,
+    "countryName": "Italy",
+    "capital": "Rome",
+    "population": "60.4M",
+    "interestingFact": "Italy is home to the Vatican City and ancient Roman ruins. 📷"
+  },
+  {
+    "id": 15,
+    "countryName": "South Africa",
+    "capital": "Cape Town",
+    "population": "60M",
+    "interestingFact": "South Africa has a diverse culture and wildlife, with Cape Town as a prime tourist spot. 📷"
+  }
+]
